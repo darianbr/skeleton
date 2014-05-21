@@ -1,0 +1,23 @@
+{
+    "name": "vendor/project",
+    "description": "Add a description",
+    "homepage": "https://github.com/darianbr/project",
+    "authors": [
+        {
+            "name": "Darian Brown",
+            "email": "darianbr@gmail.com",
+            "homepage": "http://darian-brown.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Project\\": "src"
+        }
+    }
+}
