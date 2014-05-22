@@ -1,6 +1,6 @@
-# HalfTime
+# Project
 
-**HalfTime** needs a description!
+**Project** needs a description!
 
 ## Installation
 
@@ -9,7 +9,7 @@ Available as [Composer] package .
 
 ## Usage
 
-### **HalfTime** usage heading!
+### **Project** usage heading!
 
 ```php
 use ...;
@@ -21,5 +21,5 @@ use ...;
 
 [Composer]: http://getcomposer.org/
 [local Composer repository]: http://composer.codeworx.com.au/
-[merge/halftime]: http://composer.codeworx.com.au/#merge/halftime
-[Semantic versioning]: https://img.shields.io/:semver-0.1.0-yellow.svg "This project uses semantic versioning"
+[vendor/project]: http://github.com/user/project
+[Some Pic]: https://img.imgur.com/:someimage.svg "Some Description"
