@@ -20,6 +20,6 @@ use ...;
 <!-- References -->
 
 [Composer]: http://getcomposer.org/
-[local Composer repository]: http://composer.codeworx.com.au/
+[local Composer repository]: http://composer.yoursite.com/
 [vendor/project]: http://github.com/user/project
 [Some Pic]: https://img.imgur.com/:someimage.svg "Some Description"
